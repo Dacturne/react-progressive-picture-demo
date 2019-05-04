@@ -1,11 +1,17 @@
 {
-  "name": "react-progressive-picture-test",
+  "name": "react-progressive-picture-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@cloudpower97/react-progressive-picture": "^1.1.0",
+    "assets": "^3.0.1",
+    "express": "^4.16.4",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-scripts": "2.1.4"
+    "react-progressive-image": "^0.6.0",
+    "react-progressive-image-loading": "^3.0.3",
+    "react-scripts": "2.1.4",
+    "serve-webp": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
